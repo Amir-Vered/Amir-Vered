@@ -11,8 +11,6 @@ S*S    S&S  S*S     S*S  S*S  S*S   `S%b        S*b    S*S  S*b     S*S   `S%b  
 S*S    S*S  S*S     S*S  S*S  S*S    S%S        S*S.   S*S  S*S.    S*S    S%S  S*S.    S*S   .S*S  
 S*S    S*S  S*S     S*S  S*S  S*S    S&S         SSSbs_S*S   SSSbs  S*S    S&S   SSSbs  S*S_sdSSS   
 SSS    S*S  SSS     S*S  S*S  S*S    SSS          YSSP~SSS    YSSP  S*S    SSS    YSSP  SSS~YSSY    
-       SP           SP   SP   SP                                    SP                              
-       Y            Y    Y    Y                                     Y                              
 </pre>
 
 Hello! I'm Amir.
