@@ -13,7 +13,7 @@ S*S    S*S  S*S     S*S  S*S  S*S    S&S         SSSbs_S*   SSSbs   S*S    S&S  
 SSS    S*S  SSS     S*S  S*S  S*S    SSS          YSSP~*    YSSP    S*S    SSS  YSSP    SSS~YSSY    
 </pre>
 
-Hello, I'm Amir — an electrical engineer passionate about resource technologies, including energy generation and storage, mining technologies, and related systems. I’m always seeking new challenges, especially opportunities to develop these solutions for use in space.
+I'm Amir — an electrical engineer passionate about fusion energy, resource technologies, and space systems. I’m interested in developing reliable hardware, software, and infrastructure for extreme environments, especially where energy systems, controls, and real-world constraints intersect.
 
 This GitHub page showcases the projects I’ve chosen to make public. If you have any questions about my work, experience, or just want to say hello, feel free to reach out.
 
